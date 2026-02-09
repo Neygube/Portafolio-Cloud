@@ -12,9 +12,9 @@
 ## Introducción a Amazon EC2
 - Fecha: 09/02/2026
 - Que aprendí:
-- Iniciar un servidor web con protección contra terminación habilitada.
-- Supervisar el estado y rendimiento de una instancia de Amazon EC2.
-- Modificar el grupo de seguridad para permitir tráfico HTTP (puerto 80).
-- Escalar la instancia cambiando su tipo/tamaño según la necesidad.
-- Probar el funcionamiento de la protección contra terminación.
-- Terminar correctamente la instancia de EC2.
+  - Iniciar un servidor web con protección contra terminación habilitada.
+  - Supervisar el estado y rendimiento de una instancia de Amazon EC2.
+  - Modificar el grupo de seguridad para permitir tráfico HTTP (puerto 80).
+  - Escalar la instancia cambiando su tipo/tamaño según la necesidad.
+  - Probar el funcionamiento de la protección contra terminación.
+  - Terminar correctamente la instancia de EC2.
